@@ -1,0 +1,11 @@
+Requirement already satisfied: branca in /home/docwynai/.local/lib/python3.8/site-packages (0.8.0)
+Collecting jinja2>=3
+  Downloading jinja2-3.1.4-py3-none-any.whl (133 kB)
+Collecting MarkupSafe>=2.0
+  Downloading MarkupSafe-2.1.5-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl (26 kB)
+Installing collected packages: MarkupSafe, jinja2
+  Attempting uninstall: jinja2
+    Found existing installation: Jinja2 2.9
+    Uninstalling Jinja2-2.9:
+      Successfully uninstalled Jinja2-2.9
+Successfully installed MarkupSafe-2.1.5 jinja2-3.1.4
